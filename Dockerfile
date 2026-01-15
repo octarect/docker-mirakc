@@ -1,4 +1,4 @@
-FROM mirakc/mirakc:3.4.6-alpine
+FROM mirakc/mirakc:3.4.51-alpine
 
 # Dependencies for building arib-b25-stream-test
 # test
